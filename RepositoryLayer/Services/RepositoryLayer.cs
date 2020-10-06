@@ -10,5 +10,9 @@ namespace RepositoryLayer.Services
         {
             throw new NotImplementedException();
         }
+        public static void UC2()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
