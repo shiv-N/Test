@@ -6,5 +6,9 @@ namespace RepositoryLayer.Services
 {
     class RepositoryLayer
     {
+        public static void UC1()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
